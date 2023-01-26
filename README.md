@@ -3,10 +3,11 @@
 ## Used
 React Js, Redux, Ant Design
 
-##Link
+## Link
 [See it live](https://bill-gates-money-spend.netlify.app)
 
-##Preview
+## Preview
+[!SS](./public/gatesmoney.png)
 
 ## Available Scripts
 
