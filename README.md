@@ -8,6 +8,7 @@ React Js, Redux, Ant Design
 
 ## Preview
 ![SS](./public/gatesmoney.png)
+![SS](./public/receipt.png)
 
 ## Available Scripts
 
