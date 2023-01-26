@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Spend Bill Gates' Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Used
+React Js, Redux, Ant Design
+
+## Link
+[See it live](https://bill-gates-money-spend.netlify.app)
+
+## Preview
+![SS](./public/gatesmoney.png)
+![SS](./public/receipt.png)
 
 ## Available Scripts
 
