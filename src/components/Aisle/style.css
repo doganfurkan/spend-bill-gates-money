@@ -1,0 +1,13 @@
+#aisle{
+    display: flex;
+    justify-content: flex-start;
+    padding:0 1em;
+    gap:1.5em;
+    max-width:1200px;
+    margin:0 auto;
+    flex-wrap:wrap
+}
+
+.thiscard{
+  width:calc(25% - 1.125em);
+}

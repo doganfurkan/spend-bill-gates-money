@@ -1,0 +1,13 @@
+#balance span{
+    font-size:2rem;
+    font-weight: bold;
+}
+
+#balance{
+    display: flex;
+    align-items: center;
+    font-size:1.25em;
+    font-weight: 600;
+    color:#85bb65;
+    text-shadow: 1px 1px green;
+}
