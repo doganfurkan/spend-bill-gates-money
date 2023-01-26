@@ -13,7 +13,7 @@ export default function Actions({id}) {
 
   useEffect(() => {
     dispatch(change({giden,deger}))
-  },[deger])
+  },[deger,giden,dispatch])
 
   const handleSell = () => {
     dispatch(sell(id))
