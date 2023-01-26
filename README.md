@@ -7,7 +7,7 @@ React Js, Redux, Ant Design
 [See it live](https://bill-gates-money-spend.netlify.app)
 
 ## Preview
-[!SS](./public/gatesmoney.png)
+[SS](!./public/gatesmoney.png)
 
 ## Available Scripts
 
