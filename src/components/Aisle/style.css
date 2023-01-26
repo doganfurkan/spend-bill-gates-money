@@ -1,6 +1,6 @@
 #aisle{
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     padding:0 1em;
     gap:1.5em;
     max-width:1200px;
@@ -10,4 +10,26 @@
 
 .thiscard{
   width:calc(25% - 1.125em);
+  min-width:150px;
+}
+
+@media screen and (max-width:400px) {
+  .thiscard{
+    width:100% !important;
+  }
+  #footer{
+    padding:1rem 1rem 3rem
+  }
+}
+
+@media screen and (min-width:401px) and (max-width:650px){
+  .thiscard{
+    width:calc(50% - 0.75em) !important;
+  }
+}
+
+@media screen and (min-width:651px) and (max-width:810px){
+  .thiscard{
+    width:calc(33.3% - 1em) !important;
+  }
 }
